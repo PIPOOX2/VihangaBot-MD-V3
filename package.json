@@ -1,7 +1,7 @@
 {
-  "name": "VihangaBot-MD",
+  "name": " 𝐙  𝐄  𝐍  𝐗  1 🪐.",
   "version": "2.0,1",
-  "description": "WhatsApp Using Baileys Multi Device",
+  "description": "WhatsApp Using Zenx1 Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,10 +18,10 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "vihangayt.",
-  "license": "MIT",
+  "author": "𝒚 𝒂 𝒔 𝒔 𝒆 𝒏.",
+  "license": "ZNX",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
+    "@adiwajshing/baileys": "owner ig+Https://instagram.com/skip_shanks",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "@bochilteam/scraper": "^2.0.0",
@@ -73,11 +73,11 @@
   },
   "devDependencies": {},
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vihangayt0/VihangaBot-MD-V2.git"
+    "type": "owner ig",
+    "url": "owner ig+Https://instagram.com/skip_shanks"
   },
   "bugs": {
-    "url": "https://github.com/vihangayt0/VihangaBot-MD-V2/issues"
+    "url": "Https://instagram.com/skip_shanks"
   },
-  "homepage": "https://github.com/vihangayt0/VihangaBot-MD-V2#readme"
+  "homepage": "Https://instagram.com/skip_shanks"
 }
